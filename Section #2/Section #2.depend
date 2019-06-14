@@ -1,0 +1,106 @@
+# depslib dependency file v1.0
+1557039285 source:g:\college\data structure\assignment 4\section #2\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+	<sstream>
+	<fstream>
+	"ContactManager.h"
+
+1556806728 source:g:\college\data structure\assignment 4\section #2\src\linkedlist.cpp
+	"Contact.h"
+
+1556808391 g:\college\data structure\assignment 4\section #2\include\linkedlist.h
+	<string>
+	<iostream>
+
+1556806543 source:g:\college\data structure\assignment 4\section #2\src\contact.cpp
+	"LinkedList.h"
+	<fstream>
+	<string>
+	<cstring>
+	<sstream>
+
+1556807297 g:\college\data structure\assignment 4\section #2\include\contact.h
+	"LinkedList.h"
+	<string>
+	<iostream>
+	<fstream>
+	<cstring>
+	<sstream>
+
+1556806749 source:g:\college\data structure\assignment 4\section #2\src\contactmanager.cpp
+
+1556831779 g:\college\data structure\assignment 4\section #2\include\contactmanager.h
+	"LinkedList.h"
+	"Contact.h"
+	"Treap.h"
+	<string>
+	<iostream>
+	<fstream>
+
+1556812111 g:\college\data structure\assignment 4\section #2\include\treap.h
+	<iostream>
+
+1556729321 source:c:\users\forwa\desktop\section #2\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+	<sstream>
+	<fstream>
+	"Treap.h"
+
+1556474959 source:c:\users\forwa\desktop\section #2\src\contact.cpp
+	"Contact.h"
+	"LinkedList.h"
+	<fstream>
+	<string>
+	<cstring>
+	<sstream>
+
+1556476658 c:\users\forwa\desktop\section #2\include\contact.h
+	"LinkedList.h"
+	<string>
+	<iostream>
+	<fstream>
+	<cstring>
+	<sstream>
+
+1556485824 c:\users\forwa\desktop\section #2\include\linkedlist.h
+	<string>
+	<iostream>
+
+1556482343 source:c:\users\forwa\desktop\section #2\src\linkedlist.cpp
+	"LinkedList.h"
+	"Contact.h"
+
+1556497543 source:c:\users\forwa\desktop\section #2\src\contactmanager.cpp
+	"ContactManager.h"
+
+1556480434 c:\users\forwa\desktop\section #2\include\contactmanager.h
+	"LinkedList.h"
+	"Contact.h"
+	<string>
+	<iostream>
+	<fstream>
+
+1556736634 c:\users\forwa\desktop\section #2\treap.h
+	<iostream>
+
+1556736634 source:c:\users\forwa\desktop\section #2\treap.cpp
+	"Treap.h"
+	<time.h>
+	<stdlib.h>
+
+1556740573 g:\college\data structure\assignment 4\section #2\treap.h
+	<iostream>
+
+1556739804 source:g:\college\data structure\assignment 4\section #2\treap.cpp
+	"Treap.h"
+	<time.h>
+	<stdlib.h>
+
+1556807280 source:g:\college\data structure\assignment 4\section #2\src\treap.cpp
+	<time.h>
+	<stdlib.h>
+
